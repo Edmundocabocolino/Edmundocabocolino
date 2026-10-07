@@ -1,4 +1,4 @@
-# Olá, eu sou Edmundo Cabocolino 👋
+# Eu sou Edmundo Cabocolino 
 
 Desenvolvedor focado no ecossistema **Python**, com experiência prática no desenvolvimento de aplicações desktop com **PyQt**, desenvolvimento web com **Django** e scripts de automação.
 
